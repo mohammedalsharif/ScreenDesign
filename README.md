@@ -5,6 +5,6 @@ Animated screens using Android Studio.🤳🧑‍💻
 
 # Links
 
-Lottie library: https://github.com/airbnb/lottie-android​
+Lottie library: https://github.com/airbnb/lottie-android
 Lottie website: https://lottiefiles.com
 liquid-swipe-android: https://github.com/Cuberto/liquid-swipe-android
